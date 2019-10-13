@@ -1,0 +1,32 @@
+body {
+   background-image: url(src="alfa.jpg.jpg");
+  color: green;
+  font-family: verdana, geneva, arial, arial black;
+
+
+}
+
+h1, h2 {
+  text-decoration: overline underline;
+
+}
+h1, h2 {
+  background-color: yellow;
+  font-size: 35px;
+
+}
+
+.bro {
+  color: blue;
+  font-size: 25px;
+
+}
+p.sro {
+  color: grey;
+  font-size: 25px;
+
+}
+p.silver {
+  font-size: 60px;
+  text-decoration:line-through ;
+}

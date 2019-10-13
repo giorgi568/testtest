@@ -1,0 +1,25 @@
+﻿<!doctype html>
+
+<html>
+<head>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="stylesheet.css">
+<title> i'm best </title>
+</head>
+<body>
+<h1> the fish web site </h1>
+<p class="bro"> welcome to the fish web site. everything you want to know about fish is in this wb site </p>
+<h2> this is a section on bass fish </h2>
+<p class="sro"> bass fish live in lakes </p>
+      <blackqoute class="bro underline" >
+        this is an ident
+      <blackqoute>
+<p class="silver">  <a href="https://www.youtube.com/watch?v=MtQZKb04l78" target="_blank">aaaaaaaaa</a> </p>
+<p align="center">ტექსტი</p>
+<img src="image.jpg" height="300" width="500" />
+
+
+ </body>
+
+
+</html>
